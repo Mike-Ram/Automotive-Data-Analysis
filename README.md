@@ -5,12 +5,13 @@
 * [Objectives](#objectives)
 * [Data Source](#data-source)
 * [Exploratory Data Analysis](#exploratory-data-analysis)
-* [Visual Analysis](#analysis)
+* [Visual Analysis](#visual-analysis)
 * [Key Findings](#key-findings)
 * [Tools and Technologies](#tools-and-technologies)
 * [Recommendations](#recommendations)
+
 ## Project Overview
-This data analysis aims to provide insights into the which automobile body base on your current status in life.
+This analysis identifies optimal automobile body styles based on individual lifestyle requirements and financial considerations. By examining relationships between performance metrics, pricing, and fuel efficiency, the project provides actionable insights for informed vehicle selection.
 
 ## Objectives
 * Analyze the relationship between horsepower, price, and fuel efficiency
@@ -18,7 +19,7 @@ This data analysis aims to provide insights into the which automobile body base 
 * Evaluate fuel efficiency patterns across vehicle categories
 * Provide data-driven recommendations for vehicle selection based on usage patterns and budget constraints
 
-## Data Sources
+## Data Source
 Automobile Data: The primary dataset used for this analysis is the "Automobile_dataset.csv", containing detailed information each car body by the company.
   
 ## Data Preparation
@@ -37,22 +38,22 @@ The analysis focused on answering these key questions:
 
 ## Visual Analysis
 
-<img width="1366" height="768" alt="Screenshot (3023)" src="https://github.com/user-attachments/assets/6763ecb5-cbd0-449c-8261-5a107245a118" />
+<img width="989" height="590" alt="2PriceVSHorse" src="https://github.com/user-attachments/assets/3db3dd27-13fd-4e02-873d-8f8d67877b90" />
 Figure 1: Positive correlation between horsepower and vehicle price
 <br></br>
 <br></br>
 
-<img width="1366" height="768" alt="Screenshot (3025)" src="https://github.com/user-attachments/assets/17d87f66-ba76-4eb9-a005-b94cc2f58224" />
+<img width="989" height="590" alt="2FuelEfficiency" src="https://github.com/user-attachments/assets/d276d0cb-b0d0-49aa-8464-94be6eb547b3" />
 Figure 2: Fuel efficiency comparison across vehicle categories
 <br></br>
 <br></br>
 
-<img width="1366" height="768" alt="Screenshot (3027)" src="https://github.com/user-attachments/assets/230101e9-0067-4e0f-b01c-246dc542ba27" />
+<img width="989" height="590" alt="2BodyStyle" src="https://github.com/user-attachments/assets/45d34a9b-e298-44ca-a38b-c93b35594c25" />
 Figure 3:  Price variations by automobile body style
 <br></br>
 <br></br>
 
-<img width="1366" height="768" alt="Screenshot (3029)" src="https://github.com/user-attachments/assets/49be3abe-b0b3-4dec-9f0b-b3335b0f1590" />
+<img width="995" height="590" alt="2HorsepowerVSMPG" src="https://github.com/user-attachments/assets/9e3bb4ed-eef2-4fdf-8951-3480f0daeab3" />
 Figure 4: Tradeoff between engine power and fuel efficiency
 <br></br>
 <br></br>
